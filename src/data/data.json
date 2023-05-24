@@ -117,47 +117,40 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "James Frankenfeld",
-      "job": "Team Member"
+      "name": "James Frankenfeld"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Muarry Phillips",
-      "job": "Team Member"
+      "name": "Muarry Phillips"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Erin Arendse",
-      "job": "Team Member"
+      "name": "Erin Arendse"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Nakisa Dzimwasha",
-      "job": "Team Member"
+      "name": "Nakisa Dzimwasha"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Ethan Kinder",
-      "job": "Team Member"
+      "name": "Ethan Kinder"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Sivu Mamanzi",
-      "job": "Team Member"
+      "name": "Sivu Mamanzi"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Cameron Slabbert",
-      "job": "Team Member"
+      "name": "Cameron Slabbert"
     }
   ],
   "Contact": {
     "address": "190 Campground Road, Ronebosch, Cape Town, SA, 7125 ",
     "phone": "+27 86 125 8876",
-    "email": "info@streetwyze.com",
-    "facebook": "https://www.facebook.com",
-    "twitter": "https://www.twitter.com",
-    "youtube": "https://www.youtube.com"
+    "email": "contactstreetwyze@gmail.com",
+    "facebook": "https://www.facebook.com/profile.php?id=100092980838508",
+    "twitter": "https://www.linkedin.com/",
+    "youtube": "https://instagram.com/streetwyze_?igshid=OGQ5ZDc2ODk2ZA=="
   },
   "Features": [
     {
