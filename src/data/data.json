@@ -118,22 +118,37 @@
     {
       "img": "img/team/01.jpg",
       "name": "James Frankenfeld",
-      "job": "Director"
+      "job": "Team Member"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Digital Designer"
+      "name": "Muarry Phillips",
+      "job": "Team Member"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Hill",
-      "job": "Business Analyst"
+      "name": "Erin Arendse",
+      "job": "Team Member"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Bird",
-      "job": "Project Manager"
+      "name": "Nakisa Dzimwasha",
+      "job": "Team Member"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Ethan Kinder",
+      "job": "Team Member"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Sivu Mamanzi",
+      "job": "Team Member"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Cameron Slabbert",
+      "job": "Team Member"
     }
   ],
   "Contact": {
